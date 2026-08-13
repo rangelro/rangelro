@@ -38,7 +38,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rangelro/rangelro/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/rangelro/rangelro/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/rangelro/rangelro/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
